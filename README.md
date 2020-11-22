@@ -1,2 +1,2 @@
 # MathOpt_EX_HW2
-Homework 2 of MathOpt
+This repository has codes used in Homework 2 of MathOpt.
